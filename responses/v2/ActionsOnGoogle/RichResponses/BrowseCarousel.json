@@ -5,6 +5,12 @@
       "richResponse": {
         "items": [
           {
+            "simpleResponse": {
+              "textToSpeech": "Sample carousel browser",
+              "displayText": "Sample carousel browser"
+            }
+          },
+          {
             "carouselBrowse": {
               "items": [
                 {
